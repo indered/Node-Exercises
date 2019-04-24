@@ -6,6 +6,5 @@ const findUser = name => {
   );
   return filteredUsers.map(u => u.username);
 };
-console.log(findUser("Bre"));
 
 module.exports.findUser = findUser;
