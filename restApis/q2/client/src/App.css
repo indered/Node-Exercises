@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.table {
+  list-style-type: none;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.table li {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.table li:nth-child(even) {
+  background: rgb(1, 1, 1, 0.2);
+}
+li h2,
+h3 {
+  width: 30%;
+  align-self: center;
+  padding: 0 10px;
+  height: 40px;
+}
+
+.table .table-head {
+  background: rgb(189, 136, 136);
+  color: rgb(48, 17, 17);
+}
+
+select {
+  padding: 5px 10px;
+  margin-bottom: 30px;
+  background: rgb(48, 28, 23);
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+select option {
+  padding: 5px 10px;
+}
