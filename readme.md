@@ -1,2 +1,2 @@
-#please have a look at readme files of respective exercises.#
-#install all the dependencies to run the app smoothly#
+**1. please have a look at readme files of respective exercises.**
+**1. install all the dependencies to run the app smoothly**
